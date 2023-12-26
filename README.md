@@ -1,7 +1,7 @@
-WDIO JSON Reporter
+WDIO JSON Retries Reporter
 ===================
 
-> A WebdriverIO plugin. Report results in json format.
+> A fork of [JSON Reporter with Retries Support](https://github.com/fijijavis/wdio-json-reporter).
 
 
 ## WDIO Version Compatibility
